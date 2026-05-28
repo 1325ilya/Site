@@ -8,6 +8,7 @@
     "key3forcalc": "30minutes",
     "key4forcalc": "12hours",
     "key5forcalc": "3months",
-    "lifetimekey": "lifetime"
+    "lifetimekey": "lifetime",
+    "keyforcalcfree": "30minutes"
   }
 }
